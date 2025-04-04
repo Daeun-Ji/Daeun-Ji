@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daeun Ji</h1>
-<h3 align="center">Analytical and data-driven problem solver with 3+ years of experience turning behavioral and product data into actionable insights. Skilled in A/B testing, segmentation, and predictive modeling to drive user engagement. Proficient in Python, SQL, and cloud-based data workflows, with hands-on experience in dashboarding and machine learning techniques including clustering and LLMs.</h3>
+
+<h3 align="left">Analytical and data-driven problem solver with 3+ years of experience turning behavioral and product data into actionable insights. Skilled in A/B testing, segmentation, and predictive modeling to drive user engagement. Proficient in Python, SQL, and cloud-based data workflows, with hands-on experience in dashboarding and machine learning techniques including clustering and LLMs.</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Data Science @ Northwestern University**
 
